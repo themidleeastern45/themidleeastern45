@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @themidleeastern45
-- 👀 I’m interested in learning programming
-- 🌱 I’m currently learning small coding in python
-- 💞️ I’m looking to collaborate on small coding projects  
+- 👀 I’m interested in
+- 🌱 I’m currently
+- 💞️ I’m looking to   
 - 📫 How to reach me ...
 
 <!---
